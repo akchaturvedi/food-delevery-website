@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="footer-content">
             <div className="footer-content-left">
                 <img src={assets.logo} alt="" />
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempora inventore nemo, cumque eaque tempore vitae. Iste, cumque atque. Atque natus accusantium voluptate sequi quam laboriosam vero iusto esse ratione ad?</p>
+                <p>Tomato Name delivers tasty meals to you! Explore diverse cuisines, order with ease, and enjoy deliciousness at your doorstep. Download our app now!</p>
                 <div className="footer-social-icons">
                     <img src={assets.facebook_icon} alt="" />
                     <img src={assets.twitter_icon} alt="" />
